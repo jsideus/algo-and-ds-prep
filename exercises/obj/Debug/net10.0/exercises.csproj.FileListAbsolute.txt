@@ -1,0 +1,14 @@
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/exercises.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/exercises.AssemblyInfoInputs.cache
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/exercises.AssemblyInfo.cs
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/exercises.csproj.CoreCompileInputs.cache
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/bin/Debug/net10.0/exercises
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/bin/Debug/net10.0/exercises.deps.json
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/bin/Debug/net10.0/exercises.runtimeconfig.json
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/bin/Debug/net10.0/exercises.dll
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/bin/Debug/net10.0/exercises.pdb
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/exercises.dll
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/refint/exercises.dll
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/exercises.pdb
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/exercises.genruntimeconfig.cache
+/Users/jeremyideus/Documents/Development/Career/AccelerationProgram/algo-and-ds-prep/exercises/obj/Debug/net10.0/ref/exercises.dll
