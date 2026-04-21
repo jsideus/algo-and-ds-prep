@@ -11,7 +11,10 @@ var neetProblemThree = new NeetProblemThree();
 var neetProblemFour = new NeetProblemFour();
 var neetBaseballGame = new NeetBaseballGame();
 var neetCodeValidParentheses = new NeetCodeValidParentheses();
-
+var minStack = new MinStack();
+minStack.push(1);
+minStack.push(2);
+minStack.push(0);
 
 Console.WriteLine(solution.RemoveValues(removeTheOnes, 1));
 Console.WriteLine(solutions.FindMaxConsecutiveOnes(consecutiveOnes));
@@ -21,3 +24,7 @@ Console.WriteLine(string.Join(",", result));
 Console.WriteLine(string.Join(",", concatResult));
 Console.WriteLine(neetBaseballGame.CalPoints(baseballSum));
 Console.WriteLine(neetCodeValidParentheses.IsValid(parens));
+Console.WriteLine(minStack.getMin());
+minStack.pop();
+Console.WriteLine(minStack.top());
+Console.WriteLine(minStack.getMin());
